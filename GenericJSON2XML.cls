@@ -1,8 +1,6 @@
 /* GenericJSON2XML.cls
  * JSON to XML Parsing controller (null)
  *
- * Copyright (c) 2016 QKom GmbH. All rights reserved.
- *
  * Authors:
  * Nils Rosen <nr@qkom.de>
  * Dominic Ley <dl@qkom.de>
